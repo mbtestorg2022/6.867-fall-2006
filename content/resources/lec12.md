@@ -5,6 +5,7 @@ description: Lecture notes on model selection criteria, feature subset selection
   combination of classifiers, and boosting.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-867-machine-learning-fall-2006/fa94ca034b2700e553744c689fb9360e_lec12.pdf
 file_type: application/pdf
+parent_uid: df76e597-6023-f703-940b-1629dd549ed2
 resourcetype: Document
 title: lec12.pdf
 uid: fa94ca03-4b27-00e5-5374-4c689fb9360e
